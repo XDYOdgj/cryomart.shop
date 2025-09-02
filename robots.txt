@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cryomart.shop/sitemap.xml
